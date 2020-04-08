@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a07928d0-0775-4ab2-af7a-ca8348adc7fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZyCrcg2pN7uWt1V3BiUQs5s662" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunManager">
+    <configuration name="save_image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mnist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/save_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.save_image" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a07928d0-0775-4ab2-af7a-ca8348adc7fe" name="Default Changelist" comment="" />
+      <created>1585802146810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585802146810</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585804746579">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="209" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/54.23.1386.877@54.23.1386.877" timestamp="1585804746579" />
+    <state x="214" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/60.23.1380.877@60.23.1380.877" timestamp="1585802636663" />
+    <state x="491" y="305" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585804733955">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="491" y="305" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/54.23.1386.877@54.23.1386.877" timestamp="1585804733955" />
+    <state x="172" y="182" key="FileChooserDialogImpl" timestamp="1585803879711">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state x="172" y="182" key="FileChooserDialogImpl/60.23.1380.877@60.23.1380.877" timestamp="1585803879711" />
+    <state width="1359" height="285" key="GridCell.Tab.0.bottom" timestamp="1585813339712">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state width="1359" height="230" key="GridCell.Tab.0.bottom/54.23.1386.877@54.23.1386.877" timestamp="1585805728502" />
+    <state width="1359" height="285" key="GridCell.Tab.0.bottom/60.23.1380.877@60.23.1380.877" timestamp="1585813339712" />
+    <state width="1359" height="285" key="GridCell.Tab.0.center" timestamp="1585813339712">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state width="1359" height="230" key="GridCell.Tab.0.center/54.23.1386.877@54.23.1386.877" timestamp="1585805728501" />
+    <state width="1359" height="285" key="GridCell.Tab.0.center/60.23.1380.877@60.23.1380.877" timestamp="1585813339712" />
+    <state width="1359" height="285" key="GridCell.Tab.0.left" timestamp="1585813339712">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state width="1359" height="230" key="GridCell.Tab.0.left/54.23.1386.877@54.23.1386.877" timestamp="1585805728501" />
+    <state width="1359" height="285" key="GridCell.Tab.0.left/60.23.1380.877@60.23.1380.877" timestamp="1585813339712" />
+    <state width="1359" height="285" key="GridCell.Tab.0.right" timestamp="1585813339712">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state width="1359" height="230" key="GridCell.Tab.0.right/54.23.1386.877@54.23.1386.877" timestamp="1585805728501" />
+    <state width="1359" height="285" key="GridCell.Tab.0.right/60.23.1380.877@60.23.1380.877" timestamp="1585813339712" />
+    <state width="1359" height="285" key="GridCell.Tab.1.bottom" timestamp="1585813339713">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state width="1359" height="285" key="GridCell.Tab.1.bottom/60.23.1380.877@60.23.1380.877" timestamp="1585813339713" />
+    <state width="1359" height="285" key="GridCell.Tab.1.center" timestamp="1585813339713">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state width="1359" height="285" key="GridCell.Tab.1.center/60.23.1380.877@60.23.1380.877" timestamp="1585813339713" />
+    <state width="1359" height="285" key="GridCell.Tab.1.left" timestamp="1585813339712">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state width="1359" height="285" key="GridCell.Tab.1.left/60.23.1380.877@60.23.1380.877" timestamp="1585813339712" />
+    <state width="1359" height="285" key="GridCell.Tab.1.right" timestamp="1585813339713">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state width="1359" height="285" key="GridCell.Tab.1.right/60.23.1380.877@60.23.1380.877" timestamp="1585813339713" />
+    <state x="251" y="100" key="SettingsEditor" timestamp="1585807050409">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state x="246" y="100" key="SettingsEditor/54.23.1386.877@54.23.1386.877" timestamp="1585805688973" />
+    <state x="251" y="100" key="SettingsEditor/60.23.1380.877@60.23.1380.877" timestamp="1585807050409" />
+    <state x="399" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1585804651651">
+      <screen x="54" y="23" width="1386" height="877" />
+    </state>
+    <state x="399" y="296" key="com.intellij.ide.util.TipDialog/54.23.1386.877@54.23.1386.877" timestamp="1585804651651" />
+    <state x="404" y="296" key="com.intellij.ide.util.TipDialog/60.23.1380.877@60.23.1380.877" timestamp="1585803550164" />
+    <state x="415" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1585808564272">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state x="415" y="213" width="670" height="676" key="search.everywhere.popup/60.23.1380.877@60.23.1380.877" timestamp="1585808564272" />
+  </component>
+</project>
